@@ -1,0 +1,16 @@
+{
+  "short_name": "MyCoolApp",
+  "name": "My Cool App",
+  "icons": [
+    {
+      "src": "./images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "black",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "blue"
+}
